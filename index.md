@@ -16,6 +16,6 @@ The [banner_jobsub](https://github.com/ian-d/banner_jobsub) gem is a Ruby gem to
 
 ## gripsweat.com
 
-[gripsweat.com](https://gripsweat.com) is a big, searchable archive of vinyl record sales and auctions and includes images and audio clips (when available). Thousands of items are added daily and right now there's 7+ million entries along with 400+ thousand audio clips. Currently working on a companion mobile app in [React Native](https://facebook.github.io/react-native/).
+[gripsweat.com](https://gripsweat.com) is a big, searchable archive of vinyl record sales and auctions and includes images and audio clips (when available). Thousands of items are added daily and right now there's 9+ million entries along with 450+ thousand audio clips. Currently working on a companion mobile app in [React Native](https://facebook.github.io/react-native/).
 
 It's especially fun/useful if you're into "deep" / big 45 based collector genres like [northern soul](https://gripsweat.com/search/?query=northern%20soul&page=1&sort_by=date&audio_only=1), [garage](https://gripsweat.com/search/?query=garage&button=), [KBD](https://gripsweat.com/search/?query=kbd&page=1&sort_by=date&audio_only=1), [afrobeat](https://gripsweat.com/search/?query=afrobeat&page=1&sort_by=date&audio_only=1), etc.
