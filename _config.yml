@@ -3,6 +3,9 @@ title: Ian D
 #tag_text: ian-d
 #description: Solo is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
 
+# Google services
+google_analytics: UA-102424277-1
+
 # Build settings
 markdown: kramdown
 exclude: ["README.md"]
