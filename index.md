@@ -4,7 +4,7 @@ layout: default
 
 My name is **Ian Dillon**.
 
-I am a senior DBA, developer, devops-y guy at [ETSU](http://www.etsu.edu).
+I'm a Cloud DevOps Engineer in Cornell University's [Cloudification Team](https://it.cornell.edu/cornell-cloud). I used to be the senior DBA, developer, devops-y guy at [ETSU](http://www.etsu.edu).
 
 Unfortunately, my work right now doesn't lend itself to pushing a lot of open-source code so there's not much on my [GH account](https://github.com/ian-d). There is my [grad thesis](http://dc.etsu.edu/etd/1497/) and my (up-to-date-ish) [resume](/resume/resume.pdf)...
 
