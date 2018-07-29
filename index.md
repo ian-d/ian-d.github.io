@@ -4,18 +4,20 @@ layout: default
 
 My name is **Ian Dillon**.
 
-I'm a Cloud DevOps Engineer in Cornell University's [Cloudification Team](https://it.cornell.edu/cornell-cloud). I used to be the senior DBA, developer, devops-y guy at [ETSU](http://www.etsu.edu).
+I'm a Senior Application Developer / Cloud DevOps Engineer in Cornell University's [Research Administration Information Services](https://ras.research.cornell.edu/RAIS/) and previously in the [Cloudification Team](https://it.cornell.edu/cornell-cloud). Before that I was the senior DBA, developer, devops-y guy at [ETSU](http://www.etsu.edu).
 
-Unfortunately, my work right now doesn't lend itself to pushing a lot of open-source code so there's not much on my [GH account](https://github.com/ian-d). There is my [grad thesis](http://dc.etsu.edu/etd/1497/) and my (up-to-date-ish) [resume](/resume/resume.pdf)...
+Unfortunately, my work right now doesn't lend itself to pushing a lot of open-source code but I put what I can on my [GH account](https://github.com/ian-d). There also my my (up-to-date-ish) **[resume](/resume/resume.pdf)** and my [grad thesis](http://dc.etsu.edu/etd/1497/).
 
 Here's some other stuff I'm responsible for:
 
-## BannerJobsub
+## [gripsweat.com](https://gripsweat.com)
+[gripsweat.com](https://gripsweat.com) is a **big**, searchable archive of vinyl record sales and auctions and includes images and audio clips. Thousands of items are added daily and right now there's 10+ million entries along with 500+ thousand audio clips. (Ruby, Python, PostgreSQL, Docker, AWS)
 
-The [banner_jobsub](https://github.com/ian-d/banner_jobsub) gem is a Ruby gem to replace Pro*C and reduce the pain of writing custom reports & jobs in the ellucian Banner ERP system. (Which is very painful, trust me.)
 
-## gripsweat.com
+## [cu-sts](https://github.com/CU-CloudCollab/cu-sts)
+[cu-sts](https://github.com/CU-CloudCollab/cu-sts) is a CLI tool that generates temporary AWS STS credentials using Cornell's existing Shibboleth+DUO / AWS integration. Its goal is to help campus groups avoid creating permanent IAM credentials for their local development workflow. (Go)
+[![asciicast](https://asciinema.org/a/D5arxi9g6vQaNvV4PY4timHAB.png)](https://asciinema.org/a/D5arxi9g6vQaNvV4PY4timHAB)
 
-[gripsweat.com](https://gripsweat.com) is a big, searchable archive of vinyl record sales and auctions and includes images and audio clips (when available). Thousands of items are added daily and right now there's 9+ million entries along with 450+ thousand audio clips. Currently working on a companion mobile app in [React Native](https://facebook.github.io/react-native/).
 
-It's especially fun/useful if you're into "deep" / big 45 based collector genres like [northern soul](https://gripsweat.com/search/?query=northern%20soul&page=1&sort_by=date&audio_only=1), [garage](https://gripsweat.com/search/?query=garage&button=), [KBD](https://gripsweat.com/search/?query=kbd&page=1&sort_by=date&audio_only=1), [afrobeat](https://gripsweat.com/search/?query=afrobeat&page=1&sort_by=date&audio_only=1), etc.
+## [banner_jobsub](https://github.com/ian-d/banner_jobsub)
+The [banner_jobsub](https://github.com/ian-d/banner_jobsub) gem is a Ruby gem to replace Pro*C and reduce the pain of writing custom reports & jobs in the ellucian Banner ERP system.
