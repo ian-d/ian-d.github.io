@@ -13,8 +13,8 @@ Here's some other stuff I'm responsible for:
 ## [gripsweat.com](https://gripsweat.com)
 [gripsweat.com](https://gripsweat.com) is a **big**, searchable archive of vinyl record sales and auctions and includes images and audio clips. Thousands of items are added daily and right now there's 10+ million entries along with 500+ thousand audio clips. (Ruby, Python, PostgreSQL, Docker, AWS)
 
-## [ecs-template](https://github.com/CU-CloudCollab/ecs-template)
-[ecs-template](https://github.com/CU-CloudCollab/ecs-template) is a tool geared towards AWS ECS to help pull KMS and SSM secrets into containers via Go file templates, allowing a more environment-agnostic application design for ECS workloads. Template files can be pulled from remote location (S3, Git, HTTP) and locations are also dynamically built using templates so per-env configurations are simple to setup.
+## [ecs-template](https://github.com/ian-d/ecs-template)
+[ecs-template](https://github.com/ian-d/ecs-template) is a tool geared towards AWS ECS to help pull KMS and SSM secrets into containers via Go file templates, allowing a more environment-agnostic application design for ECS workloads. Template files can be pulled from remote location (S3, Git, HTTP) and locations are also dynamically built using templates so per-env configurations are simple to setup.
 
 
 ## [cu-sts](https://github.com/CU-CloudCollab/cu-sts)
