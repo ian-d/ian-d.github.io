@@ -4,7 +4,7 @@ layout: default
 
 My name is **Ian Dillon**.
 
-I'm a Senior Platform Architect in Cornell University's [Research Administration Information Services](https://ras.research.cornell.edu/RAIS/) and previously in the [Cloudification Team](https://it.cornell.edu/cornell-cloud). Before that I was the senior DBA, developer, devops-y guy at [ETSU](http://www.etsu.edu).
+I'm a Senior Software Engineer for the New York Times Delivery Engineering group. I used to be a Senior Platform Architect in Cornell University's [Research Administration Information Services](https://ras.research.cornell.edu/RAIS/) and the [Cloudification Team](https://it.cornell.edu/cornell-cloud). Before that I was the senior DBA, developer, devops-y guy at [ETSU](http://www.etsu.edu).
 
 Unfortunately, my work right now doesn't lend itself to pushing a lot of open-source code but I put what I can on my [GH account](https://github.com/ian-d). There also my my (up-to-date-ish) **[resume](/resume/resume.pdf)** and my [grad thesis](http://dc.etsu.edu/etd/1497/).
 
